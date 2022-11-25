@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelgetachew-abebe](https://github.com/michaelgetachew-abebe)
 
-- 📝 I regularly write articles on [Data Engineering and Machine Learning](Data Engineering and Machine Learning)
+- 📝 I regularly write articles on [Data Engineering and Machine Learning](https://medium.com/@mikygetyos)
 
 - 💬 Ask me about **Data Engineering**
 
