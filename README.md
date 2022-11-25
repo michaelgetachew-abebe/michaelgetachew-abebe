@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Michael Getachew</h1>
 <h3 align="center">A junior Data engineer, ML engineer and Quantum Computing Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/101546624/203981030-558acb01-b79f-4353-8cc7-482cbf7e568c.png)
-">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
+
 - 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
 
 - 🌱 I’m currently learning **Vue, Angular, Flutter**
