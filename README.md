@@ -1,10 +1,10 @@
-<p><center>
-   <img align = "center" height="300" src="https://github.com/michaelgetachew-abebe/michaelgetachew-abebe/blob/main/LinkedInback.webp" />
+<p align = "center">
+   <img height="300" src="https://github.com/michaelgetachew-abebe/michaelgetachew-abebe/blob/main/LinkedInback.webp" />
 
-<img align = "center" src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
-<center/></p>
+<img src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
+</p>
 <h1 align="center">Hi 👋, I'm Michael Getachew</h1>
-<h3 align="center">A junior Data engineer, ML engineer and Quantum Computing Enthusiast</h3>
+<h3 align="center">A Junior Data Engineer, ML Engineer and Quantum Computing Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
