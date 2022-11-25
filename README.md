@@ -1,3 +1,8 @@
+<p>
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fdata-analyst&psig=AOvVaw0UukXOcpOB3NN6poc4fv_9&ust=1669465026475000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjilIGoyfsCFQAAAAAdAAAAABAE"/>
+
+<img src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
+</p>
 <h1 align="center">Hi 👋, I'm Michael Getachew</h1>
 <h3 align="center">A junior Data engineer, ML engineer and Quantum Computing Enthusiast</h3>
 
