@@ -1,8 +1,8 @@
-<p>
+<p><center>
    <img align = "center" height="300" src="https://github.com/michaelgetachew-abebe/michaelgetachew-abebe/blob/main/LinkedInback.webp" />
 
 <img align = "center" src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
-</p>
+<center/></p>
 <h1 align="center">Hi 👋, I'm Michael Getachew</h1>
 <h3 align="center">A junior Data engineer, ML engineer and Quantum Computing Enthusiast</h3>
 
