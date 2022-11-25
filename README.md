@@ -1,5 +1,5 @@
 <p>
-   <img height="300" src="https://github.com/michaelgetachew-abebe/michaelgetachew-abebe/blob/main/LinkedInback.webp" />
+   <img align = "center" height="300" src="https://github.com/michaelgetachew-abebe/michaelgetachew-abebe/blob/main/LinkedInback.webp" />
 
 <img align = "center" src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
 </p>
