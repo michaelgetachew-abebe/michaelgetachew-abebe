@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
 
-- 🌱 I’m currently learning **Vue, Angular, Flutter**
+- 🌱 I’m currently learning **Vue, Angular and Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelgetachew-abebe](https://github.com/michaelgetachew-abebe)
 
