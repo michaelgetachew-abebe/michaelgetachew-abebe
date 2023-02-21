@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+- <img src="https://komarev.com/ghpvc/?username=michaelgetachew-abebe&style=flat-square&color=blue" alt=""/>
 
 - 🌱 I’m currently learning **Vue, Angular and Flutter**
 
