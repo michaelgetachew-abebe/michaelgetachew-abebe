@@ -5,10 +5,9 @@
 </p>
 <h1 align="center">Hi 👋, I'm Michael Getachew</h1>
 <h3 align="center">A Junior Data Engineer, ML Engineer and Quantum Computing Enthusiast</h3>
-
+<img src="https://komarev.com/ghpvc/?username=michaelgetachew-abebe&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
-- <img src="https://komarev.com/ghpvc/?username=michaelgetachew-abebe&style=flat-square&color=blue" alt=""/>
 
 - 🌱 I’m currently learning **Vue, Angular and Flutter**
 
