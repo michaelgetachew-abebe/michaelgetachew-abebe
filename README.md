@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
 </p>
 <h1 align="center">Hi 👋, I'm Michael Getachew Abebe</h1>
-<h3 align="center">A ML Engineer / Data Scientist and Quantum Computing Enthusiast</h3>
+<h3 align="center">ML Engineer / Data Scientist and Quantum Computing Enthusiast</h3>
 <img src="https://komarev.com/ghpvc/?username=michaelgetachew-abebe&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
