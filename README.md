@@ -7,8 +7,7 @@
 <h3 align="center">ML Engineer / Data Scientist and Quantum Computing Enthusiast</h3>
 <img src="https://komarev.com/ghpvc/?username=michaelgetachew-abebe&style=flat-square&color=blue" alt=""/>
 
-- 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
-
+- 🔭 I’m currently working on **Retrival Augmented Genration(RAG) Applications**
 - 🌱 I’m currently learning **Langchain, LlamaIndex and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelgetachew-abebe](https://github.com/michaelgetachew-abebe)
