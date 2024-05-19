@@ -3,19 +3,19 @@
 
 <img src="https://img.shields.io/badge/Michael%20Getachew-is%20Available for a Remote Work-greenyellow" />
 </p>
-<h1 align="center">Hi 👋, I'm Michael Getachew</h1>
-<h3 align="center">A Junior Data Engineer, ML Engineer and Quantum Computing Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Michael Getachew Abebe</h1>
+<h3 align="center">A ML Engineer / Data Scientist and Quantum Computing Enthusiast</h3>
 <img src="https://komarev.com/ghpvc/?username=michaelgetachew-abebe&style=flat-square&color=blue" alt=""/>
 
 - 🔭 I’m currently working on [Data Engineering: text-to-speech data collection with Kafka, Airflow, and Spark](https://github.com/michaelgetachew-abebe/Text-to-Speech-Data-Collection-Kafka-Airflow-Spark)
 
-- 🌱 I’m currently learning **Vue, Angular and Flutter**
+- 🌱 I’m currently learning **Langchain, LlamaIndex and Generative AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/michaelgetachew-abebe](https://github.com/michaelgetachew-abebe)
 
-- 📝 I regularly write articles on [Data Engineering and Machine Learning](https://medium.com/@mikygetyos)
+- 📝 I regularly write articles on [Machine Learning, Data Science and Data Enineering](https://medium.com/@mikygetyos)
 
-- 💬 Ask me about **Data Engineering**
+- 💬 Ask me about **Data Science, Machine Learning and MLOps**
 
 - 📫 How to reach me **mikygetyos@gmail.com**
 
